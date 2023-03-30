@@ -1,0 +1,22 @@
+{
+  "name": "classic-react-practice",
+  "version": "1.0.0",
+  "description": "Idk I may be doing some old react stuff soon so im just gonna see if i can make a quick app to review it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seal125/classic-react-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seal125/classic-react-practice/issues"
+  },
+  "homepage": "https://github.com/Seal125/classic-react-practice#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
